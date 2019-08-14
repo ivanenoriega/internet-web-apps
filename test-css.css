@@ -1,0 +1,24 @@
+body {
+  background: #d9d9d9;
+}
+#contenido {
+  margin-right: 30%;
+  margin-left: 30%;
+  width: 40%;
+  background: #fff;
+  padding: 5px;
+  display: inline-block;
+}
+#contenido h1 {
+  background: #0092bf;
+  padding-left: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: #fff;
+  text-transform: uppercase;
+  margin-top: 0px;
+  margin-bottom: 10px;
+}
+#contenido img {
+  float: left;
+}
